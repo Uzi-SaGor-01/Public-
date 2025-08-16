@@ -16,13 +16,15 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "AYUSH SHRIVASTAVA ",
+    "BOTNAME": "Sagor-bot",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100051705871957"
+        "100048281103451",
+        "61577173906904"
     ],
     "NDH": [
-        "100051705871957"
+        "100048281103451",
+        "61577173906904"
     ],
     "DATABASE": {
         "sqlite": {

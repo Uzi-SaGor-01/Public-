@@ -1,7 +1,7 @@
 {
-  "name": "ARIF-BABU",
+  "name": "Sagor",
   "version": "10.1.1",
-  "description": "MADE BY ARIF BABU 🥀",
+  "description": "MADE BY Sagor 🥀",
   "main": "Sagor.js",
   "engines": {
       "node": "20.x",
@@ -14,7 +14,8 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/arif-11/arif-bot/issues"
+      "url":
+"https://github.com/SAGOR690beep/Mi/issues"
   },
   "keywords": [
       "bot",
@@ -26,12 +27,12 @@
       "prince",
       "mental"
   ],
-  "author": "ARIF-BABU 🥀",
+  "author": "Sagor 🥀",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/arif-11/arif-bot/issues"
+      "url": "https://github.com/SAGOR690beep/Mi/issues"
   },
-  "homepage": "https://github.com/arif-11/arif-bot/issues",
+  "homepage": "https://github.com/SAGOR690beep/Mi/issues",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
