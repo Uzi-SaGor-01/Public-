@@ -15,7 +15,7 @@
   "repository": {
       "type": "git",
       "url":
-"https://github.com/SAGOR690beep/Mi/issues"
+"https://github.com/Uzi-SaGor-01/X/issues"
   },
   "keywords": [
       "bot",
@@ -23,16 +23,16 @@
       "project",
       "messenger",
       "javasvript",
-      "arif",
+      "sagor",
       "prince",
       "mental"
   ],
   "author": "Sagor 🥀",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/SAGOR690beep/Mi/issues"
+      "url": "https://github.com/Uzi-SaGor-01/X/issues"
   },
-  "homepage": "https://github.com/SAGOR690beep/Mi/issues",
+  "homepage": "https://github.com/Uzi-SaGor-01/X/issues",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
@@ -58,7 +58,7 @@
       "express": "^4.19.2",
       "extract-zip": "^2.0.1",
       "fb-tools": "0.0.1-security",
-      "fca-priyansh": "^18.0.0",
+      "sagor-z-fca": "^1.0.20",
       "figlet": "^1.5.2",
       "form-data": "^4.0.0",
       "fs-extra": "^10.1.0",
