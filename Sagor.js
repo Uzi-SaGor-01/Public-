@@ -41,12 +41,7 @@ global.client = new Object({
         }
   }
 });
-const ownerUID = "61577173906904";
-if (!ownerUID) process.exit(1);
-global.isOwner = uid => uid === ownerUID;
-function onMessage(e) {
-    if (!global.isOwner(e.senderID)) return;
-    }
+
 global.data = new Object({
     threadInfo: new Map(),
     threadData: new Map(),
