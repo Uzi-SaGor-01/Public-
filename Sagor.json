@@ -8,15 +8,15 @@
     "allowInbox": false,
     "autoClean": true,
     "commandDisabled": [
-        "sim.js"
+        ""
     ],
     "eventDisabled": [
-        "join.js"
+        ""
     ],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Sagor-bot",
+    "BOTNAME": "YOUR FATHER",
     "PREFIX": ".",
     "ADMINBOT": [
         "100048281103451",
