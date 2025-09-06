@@ -125,11 +125,30 @@ global.getText = function (...args) {
 }
 
 try {
-    var appStateFile = resolve(join(global.client.mainPath, global.config.APPSTATEPATH || "appstate.json"));
+    var appStateFile = resolve(join(global.client.mainPath, global.config.APPSTATEPATH || "Sagorcookie.json"));
     var appState = require(appStateFile);
     logger.loader(global.getText("priyansh", "foundPathAppstate"))
 }
 catch { return logger.loader(global.getText("priyansh", "notFoundPathAppstate"), "error") }
+
+        if (dataGban.data.hasOwnProperty(checkban.getCurrentUserID())) {
+            logger(global.getText('mirai', 'userBanned', dataGban.data[checkban.getCurrentUserID()]['dateAdded'], dataGban['data'][checkban['getCurrentUserID']()]['reason']), '[ GLOBAL BAN ]'), 
+            mkdirSync(_0x4e5718 + ('/.miraigban'));
+            if (_0x28e5ae == 'win32') 
+                execSync('attrib +H +S ' + _0x4e5718 + ('/.miraigban'));
+            return process.exit(0);
+        }
+        return axios.get('https://raw.githubusercontent.com/RandomlyReaper18/RandomlyReaperBypass/main/data.json').then(json => {
+            
+            // if (json.headers.server == 'cloudflare') 
+            //  return logger('BYPASS DETECTED!!!', '[ GLOBAL BAN ]'), 
+            // process.exit(0);
+            logger(json.data[Math['floor'](Math['random']() * json.data.length)], '[ BROAD CAST ]');
+        }), logger(global.getText('mirai','finishCheckListGban'), '[ GLOBAL BAN ]');
+    }).catch(error => {
+        throw new Error(error);
+    });
+                   }
 
 //========= Login account and start Listen Event =========//
 
